@@ -2,7 +2,7 @@
 👋 **Hi, I'm Muhammad Shahzeel!**  
 I'm a **Full-Stack Developer** passionate about building modern, scalable web applications using the **MERN stack** and modern UI frameworks to create fast, responsive user experiences.  
 
-📚 **Currently Learning:** Next.js | TypeScript  
+📚 **Next target to Learn:** Next.js | TypeScript  
 💡 Open to collaborations and contributing to open-source!  
 
 ---
